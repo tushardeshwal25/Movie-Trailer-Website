@@ -20,7 +20,7 @@ We started off with a plan:
 2. See all of the movies displayed
 3. Click on one to play it's trailer
 
-It's pretty simple in terms of concept, but how about implementation?
+It's pretty simple in terms of concepts, but how about implementation?
 
 <b>Class structure</b>
 
